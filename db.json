@@ -1,0 +1,19 @@
+{
+   "suggestions":[
+      {
+         "term":"shoes",
+         "image_url":"https://cdn.ampxchange.com/account/1234/0/1478.jpg",
+         "direct_nav_url":"https://www.amazon.com/s/?keywords=%KEYWORD%",
+         "adcopy":"Shop %KEYWORD% on Amazon"
+      },
+      {
+         "term":"amtrak"
+      },
+      {
+         "term":"american airlines",
+         "direct_nav_url":"http://www.aa.com",
+         "image_url":"https://cdn.ampxchange.com/account/1234/0/1478.jpg",
+         "adcopy":"www.aa.com"
+      }
+   ]
+}

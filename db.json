@@ -2,7 +2,7 @@
    "suggestions":[
       {
          "term":"shoes",
-         "image_url":"https://cdn.ampxchange.com/account/1234/0/1478.jpg",
+         "image_url":"https://cdn.ampxchange.com/account/74042/0/1478101920608.jpg",
          "direct_nav_url":"https://www.amazon.com/s/?keywords=%KEYWORD%",
          "adcopy":"Shop %KEYWORD% on Amazon"
       },
@@ -12,7 +12,7 @@
       {
          "term":"american airlines",
          "direct_nav_url":"http://www.aa.com",
-         "image_url":"https://cdn.ampxchange.com/account/1234/0/1478.jpg",
+         "image_url":"https://cdn.ampxchange.com/account/74042/0/1478101920608.jpg",
          "adcopy":"www.aa.com"
       }
    ]
